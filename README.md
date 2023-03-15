@@ -1,3 +1,4 @@
+[![DOI](https://zenodo.org/badge/614548447.svg)](https://zenodo.org/badge/latestdoi/614548447)
 # NNS-500
 Acceptability judgment task dataset based on the sentences written by non-native English speakers     
 # Acceptability judgment task (AJT)   
